@@ -1,0 +1,25 @@
+# Node modules
+node_modules/
+
+# Build outputs
+dist/
+build/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Logs
+logs/
+*.log
+
+# Environment variables
+.env
+.env.*.local
+
+# Editor & OS files
+.vscode/
+.DS_Store
+
+# Jest cache
+coverage/
+jest-cache/
